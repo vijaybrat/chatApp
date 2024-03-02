@@ -11,4 +11,4 @@ export const databases = new Databases(client);
 
 export const DATABASE_ID = "65e18ea7dd731a17d606";
 export const COMMUNITY_COLLECTION_ID = "65e18eb9da8debdf51a8";
-// export const CHAT_COLLECTION_ID = "__Chat Collection Id__";
+export const CHAT_COLLECTION_ID = "65e2a85a69cb48dfd81d";

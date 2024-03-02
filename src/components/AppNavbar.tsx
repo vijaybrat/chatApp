@@ -5,7 +5,6 @@ import {
   NavbarBrand,
   NavbarItem,
   Link,
-  Button,
 } from "@nextui-org/react";
 import LogoutModel from "./LogoutModal";
 
